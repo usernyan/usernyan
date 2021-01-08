@@ -1,4 +1,9 @@
-### Hi there 👋
+## Peter M Carey
+### _Contact Me: pete.m.carey@gmail.com_
+- Currently working at Lower Hudson Regional Information Center.
+- 3rd year student at [**SUNY Polytechnic Institute**](https://sunypoly.edu/) working towards a Bachelor's in Computer and Information Science. On the [Fall 2020 President's Excellence List](https://sunypoly.edu/student-life/student-resources/registrar/undergraduate-honors-lists/presidents-excellence-list/fall-2020.html)
+
+
 
 <!--
 **usernyan/usernyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
