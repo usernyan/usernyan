@@ -1,4 +1,11 @@
-### Hi there 👋
+## Peter M Carey
+### _Contact Me: petermcarey@protonmail.com_
+- Currently working at Lower Hudson Regional Information Center.
+
+### Education
+[**SUNY Polytechnic Institute**](https://sunypoly.edu/), 2018 - 2022
+
+Bachelor of Computer and Information Science, cum laude
 
 <!--
 **usernyan/usernyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
