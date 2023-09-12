@@ -1,6 +1,5 @@
 ## Peter M Carey
 ### _Contact Me: petermcarey@protonmail.com_
-- Currently working at Lower Hudson Regional Information Center.
 
 ### Education
 [**SUNY Polytechnic Institute**](https://sunypoly.edu/), 2018 - 2022
